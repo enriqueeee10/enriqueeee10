@@ -21,7 +21,7 @@ I love designing and building efficient, scalable, and well-structured systems t
 
 - 📫 How to reach me: 
    - <a><img height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> [WhatsApp](https://wa.me/message/VX7VW7PUSDP3N1)</a>
-   - <a><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> [LinkedIn](www.linkedin.com/in/leandro-enrique-undefined-8382472ba)</a>
+   - <a><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> [LinkedIn](https://www.linkedin.com/in/leandro-enrique-ramírez-cenepo-8382472ba)</a>
 
 ----
 Credit: [Leandro Ramírez](https://github.com/enriqueeee10)
