@@ -21,7 +21,7 @@ I love designing and building efficient, scalable, and well-structured systems t
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 
 - 📫 How to reach me: 
-   - <a><img height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> [WhatsApp](https://discord.com/)</a>
+   - <a><img height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> [WhatsApp](https://wa.me/message/VX7VW7PUSDP3N1)</a>
    - <a><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> [LinkedIn](www.linkedin.com/in/leandro-enrique-undefined-8382472ba)</a>
 
 ----
