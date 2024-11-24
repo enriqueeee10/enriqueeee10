@@ -11,20 +11,18 @@ Passionate about technology and the positive impact it can generate in the world
 I love designing and building efficient, scalable, and well-structured systems that solve real problems. :computer:
 
 
-- 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+- :zap: Skils <img height="20" src="https://skillicons.dev/icons?i=js,html,css,java,opencv,postman,py,sqlite,anaconda,mysql,spring,wordpress"></code>
+
+
+- 🌱 I’m currently learning
+<img height="20" src="https://skillicons.dev/icons?i=angular,docker,postgres,react,vite"></code>
+
 
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 
 - 📫 How to reach me: 
-   - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Leandra#1163 </a>
-
-<img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=LeandraOliveiraS&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
-/>
-
+   - <a><img height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> [WhatsApp](https://discord.com/)</a>
+   - <a><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> [LinkedIn](www.linkedin.com/in/leandro-enrique-undefined-8382472ba)</a>
 
 ----
 Credit: [Leandro Ramírez](https://github.com/enriqueeee10)
