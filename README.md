@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lramirezcenepo@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51968494861)
 
-Hola, soy **Leandro Enrique Ramírez Cenepo**, un Desarrollador de Software apasionado por construir soluciones eficientes y escalables. Actualmente, soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad Nacional de San Martín - Tarapoto, Perú.
+Hola, soy **Leandro Enrique Ramírez Cenepo**, Desarrollador de Software apasionado por construir soluciones eficientes y escalables. Actualmente, soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad Nacional de San Martín - Tarapoto, Perú.
 
 Mi enfoque principal es el **desarrollo backend**, donde tengo experiencia en la construcción de API RESTful y arquitecturas basadas en microservicios utilizando **Python** con frameworks como **FastAPI** y **Django**. También he trabajado con bases de datos como **PostgreSQL** y sistemas de autenticación.
 
@@ -16,7 +16,7 @@ Estoy siempre en constante aprendizaje, comprometido con la calidad del código 
 
 ### 💻 Habilidades y Tecnologías
 
-<img height="25" src="https://skillicons.dev/icons?i=py,fastapi,django,flutter,postgresql,git,github,postman,swagger,html,css,js,java,sql,php">
+<img height="25" src="https://skillicons.dev/icons?i=py,fastapi,django,flutter,postgres,github,postman,swagger,supabase,html,css,js,java,sql,php,docker">
 
 * **Lenguajes de Programación:** Python, SQL, HTML, CSS, JavaScript, Java, PHP (básico)
 * **Frameworks y Herramientas:** FastAPI, Django, Flutter
