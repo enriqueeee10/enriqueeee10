@@ -1,29 +1,45 @@
-## Hello World!
+## Hello World! 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-enrique-undefined-8382472ba)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/leandro_enrique10/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lramirezcenepo@gmail.com)
+[cite_start][![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-enrique10/) [cite: 3]
+[cite_start][![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lramirezcenepo@gmail.com) [cite: 3]
+[cite_start][![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51968494861) [cite: 3]
 
+[cite_start]Hola, soy **Leandro Enrique Ramírez Cenepo**[cite: 1], un Desarrollador de Software apasionado por construir soluciones eficientes y escalables. [cite_start]Actualmente, soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad Nacional de San Martín - Tarapoto, Perú[cite: 27, 28].
 
-My name is **Leandro Ramírez**, I'm 20 years old and I'm a student of **Systems and Computer Engineering** at Universidad Nacional de San Martin (**UNSM**) in Perú.
-Passionate about technology and the positive impact it can generate in the world. Currently, I'm focused on software development, with a special interest in the backend. 
-I love designing and building efficient, scalable, and well-structured systems that solve real problems. :computer:
+[cite_start]Mi enfoque principal es el **desarrollo backend** [cite: 5][cite_start], donde tengo experiencia en la construcción de API RESTful y arquitecturas basadas en microservicios utilizando **Python** con frameworks como **FastAPI** y **Django**[cite: 5, 6]. [cite_start]También he trabajado con bases de datos como **PostgreSQL** y sistemas de autenticación[cite: 6, 23].
 
+[cite_start]Además, me desempeño en el **desarrollo de aplicaciones móviles multiplataforma con Flutter** [cite: 7][cite_start], aplicando buenas prácticas de diseño y consumo de APIs[cite: 7].
 
-- :zap: Skils <img height="20" src="https://skillicons.dev/icons?i=js,html,css,java,opencv,postman,py,sqlite,anaconda,mysql,spring,wordpress"></code>
+[cite_start]Estoy siempre en constante aprendizaje, comprometido con la calidad del código y la mejora continua[cite: 9].
 
+---
 
-- 🌱 I’m currently learning
-<img height="20" src="https://skillicons.dev/icons?i=angular,docker,postgres,react,vite"></code>
+### 💻 Habilidades y Tecnologías
 
+[cite_start]<img height="25" src="https://skillicons.dev/icons?i=py,fastapi,django,flutter,postgresql,git,github,postman,swagger,html,css,js,java,sql,php"> [cite: 42, 43, 45, 46]
 
-- 💬 Ask me about programming in general, I am always <br> available to help and learn together.
+* [cite_start]**Lenguajes de Programación:** Python, SQL, HTML, CSS, JavaScript, Java, PHP (básico) [cite: 42]
+* [cite_start]**Frameworks y Herramientas:** FastAPI, Django, Flutter [cite: 43]
+* [cite_start]**Bases de Datos:** PostgreSQL [cite: 6, 23]
+* [cite_start]**Control de Versiones:** Git, GitHub [cite: 45]
+* [cite_start]**APIs y Documentación:** Postman, Swagger/OpenAPI [cite: 46]
 
-- 📫 How to reach me: 
-   - <a><img height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> [WhatsApp](https://wa.me/message/VX7VW7PUSDP3N1)</a>
-   - <a><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> [LinkedIn](https://www.linkedin.com/in/leandro-enrique-ramírez-cenepo-8382472ba)</a>
+---
 
-----
+### 🌱 Actualmente Aprendiendo
+
+Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades.
+
+---
+
+### 💬 Contáctame
+
+* [cite_start]**Correo Electrónico:** lramirezcenepo@gmail.com [cite: 3]
+* [cite_start]**LinkedIn:** [https://www.linkedin.com/in/leandro-enrique10/](https://www.linkedin.com/in/leandro-enrique10/) [cite: 3]
+* [cite_start]**Teléfono:** +51 968494861 [cite: 3]
+
+---
+
 Credit: [Leandro Ramírez](https://github.com/enriqueeee10)
 
-Last Edited on: 24/11/2024
+Last Edited on: 27/07/2025
